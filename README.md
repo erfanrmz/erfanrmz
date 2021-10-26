@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently a B.Sc Student of Computer Engineering at Amirkabir University of Technology  
+- 🌱 I’m currently learning: Back-End Development,and android programming.
+- 💬 Ask me about anything
+- 📫 how to reach me: erfanrmz@gmail.com
+
 <!--
 **erfanrmz/erfanrmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kianahs)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanrmz&layout=Demo)](https://github.com/anuraghazra/github-readme-stats)
